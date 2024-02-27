@@ -1,0 +1,9 @@
+Package: com.harans.tweak.shortcuttodebug
+Name: Tap2DebugRootless
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: 无根越狱下通过 3D Touch 快捷方式打开设置中的“调试”页面
+Maintainer: Harlans
+Author: Harlans
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
